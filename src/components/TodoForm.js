@@ -16,13 +16,13 @@ const TodoForm = () => {
             <form onSubmit={handleSubmit}>
                 <input 
                 type="text"
-                placeholder="todo title"
+                placeholder="title"
                 value={title}
                 onChange={e => setTitle(e.target.value)}
                 required />
                 <input 
                 type="text"
-                placeholder="todo author"
+                placeholder="assigned to..."
                 value={author}
                 onChange={e => setAuthor(e.target.value)}
                 required />
