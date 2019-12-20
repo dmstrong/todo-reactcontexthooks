@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-reactcontexthooks/static/css/main.2360bfdb.chunk.css",
+    "main.js": "/todo-reactcontexthooks/static/js/main.17a619d5.chunk.js",
+    "main.js.map": "/todo-reactcontexthooks/static/js/main.17a619d5.chunk.js.map",
+    "runtime-main.js": "/todo-reactcontexthooks/static/js/runtime-main.592b704d.js",
+    "runtime-main.js.map": "/todo-reactcontexthooks/static/js/runtime-main.592b704d.js.map",
+    "static/js/2.ca46ace9.chunk.js": "/todo-reactcontexthooks/static/js/2.ca46ace9.chunk.js",
+    "static/js/2.ca46ace9.chunk.js.map": "/todo-reactcontexthooks/static/js/2.ca46ace9.chunk.js.map",
+    "index.html": "/todo-reactcontexthooks/index.html",
+    "precache-manifest.9a6e30863dc333dd85d61ae1960ae422.js": "/todo-reactcontexthooks/precache-manifest.9a6e30863dc333dd85d61ae1960ae422.js",
+    "service-worker.js": "/todo-reactcontexthooks/service-worker.js",
+    "static/css/main.2360bfdb.chunk.css.map": "/todo-reactcontexthooks/static/css/main.2360bfdb.chunk.css.map",
+    "static/js/2.ca46ace9.chunk.js.LICENSE": "/todo-reactcontexthooks/static/js/2.ca46ace9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.592b704d.js",
+    "static/js/2.ca46ace9.chunk.js",
+    "static/css/main.2360bfdb.chunk.css",
+    "static/js/main.17a619d5.chunk.js"
+  ]
+}
