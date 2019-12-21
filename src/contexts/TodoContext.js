@@ -11,8 +11,8 @@ const TodoContextProvider = (props) => {
     };
 
 const [todos, setTodos] = useState(initialState)
-const addTodo = (title, author) => {
-    setTodos([...todos, { title: title, author: author, id: uuid() }])
+const addTodo = (title, date) => {
+    setTodos([...todos, { title: title, date: date, id: uuid() }])
 }
 const removeTodo = (id) => {
     setTodos(todos.filter((todo) => todo.id !== id))

@@ -18,7 +18,7 @@ const TodoList = () => {
                     </ul>
                 </div>
             ) : (
-                <div className="empty">No todos to complete. Yay!</div>
+                <div className="empty">Nothing left to code, refactor, read, test? AwesomeSAUCE!</div>
             )
             }
         </div>

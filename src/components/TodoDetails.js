@@ -7,7 +7,7 @@ const TodoDetails = ({ todo }) => {
         <div>
             <li onClick={() => removeTodo(todo.id)}>
                 <div className="title">{todo.title}</div>
-                <div className="author">{todo.author}</div>
+                <div className="date">{todo.date}</div>
             </li>
         </div>
     )

@@ -4,27 +4,28 @@ import { TodoContext } from '../contexts/TodoContext'
 const TodoForm = () => {
     const { addTodo } = useContext(TodoContext)
     const [title, setTitle] = useState('')
-    const [author, setAuthor] = useState('')
+    const [date, setDate] = useState('')
     const handleSubmit = (e) => {
         e.preventDefault()
-        addTodo(title, author)
+        addTodo(title, date)
         setTitle('')
-        setAuthor('')
+        setDate('')
     }
     return (
         <div>
             <form onSubmit={handleSubmit}>
                 <input 
                 type="text"
-                placeholder="title"
+                placeholder="Well, I could..."
                 value={title}
                 onChange={e => setTitle(e.target.value)}
                 required />
+
                 <input 
                 type="text"
-                placeholder="assigned to..."
-                value={author}
-                onChange={e => setAuthor(e.target.value)}
+                placeholder="Due Date"
+                value={date}
+                onChange={e => setDate(e.target.value)}
                 required />
                 <input type="submit" value="add todo" />
             </form>

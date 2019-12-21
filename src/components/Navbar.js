@@ -5,10 +5,11 @@ const Navbar = () => {
     const { todos } = useContext(TodoContext)
     return (
       <div className="navbar">
-        <h1>
-          Honey "Todo" List
-        </h1>
-        <p>Honey, you currently have {todos.length} things to complete.</p>
+        <h1>"To-Code" List</h1>
+        <p>
+          You currently have {todos.length === 1 ? `${todos.length} thing ` : `${todos.length} things `}
+          left to code.
+        </p>
       </div>
     );
 }
