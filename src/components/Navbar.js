@@ -8,7 +8,7 @@ const Navbar = () => {
         <h1>"To-Code" List</h1>
         <p>
           You currently have {todos.length === 1 ? `${todos.length} thing ` : `${todos.length} things `}
-          left to code.
+          left to do.
         </p>
       </div>
     );

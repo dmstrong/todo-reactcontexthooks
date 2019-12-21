@@ -16,18 +16,18 @@ const TodoForm = () => {
             <form onSubmit={handleSubmit}>
                 <input 
                 type="text"
-                placeholder="Well, I could..."
+                placeholder="Add Todo"
                 value={title}
                 onChange={e => setTitle(e.target.value)}
                 required />
 
                 <input 
                 type="text"
-                placeholder="Due Date"
+                placeholder="Optional: Notes/Due Date"
                 value={date}
                 onChange={e => setDate(e.target.value)}
-                required />
-                <input type="submit" value="add todo" />
+                 />
+                <input type="submit" value="Add" />
             </form>
         </div>
     )
