@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/todo-reactcontexthooks/static/css/main.c1f5fe0c.chunk.css",
-    "main.js": "/todo-reactcontexthooks/static/js/main.0764c4f0.chunk.js",
-    "main.js.map": "/todo-reactcontexthooks/static/js/main.0764c4f0.chunk.js.map",
-    "runtime-main.js": "/todo-reactcontexthooks/static/js/runtime-main.592b704d.js",
-    "runtime-main.js.map": "/todo-reactcontexthooks/static/js/runtime-main.592b704d.js.map",
-    "static/js/2.ca46ace9.chunk.js": "/todo-reactcontexthooks/static/js/2.ca46ace9.chunk.js",
-    "static/js/2.ca46ace9.chunk.js.map": "/todo-reactcontexthooks/static/js/2.ca46ace9.chunk.js.map",
-    "index.html": "/todo-reactcontexthooks/index.html",
-    "precache-manifest.ee62ce44a9c46400dfa0e2bfd953f3f9.js": "/todo-reactcontexthooks/precache-manifest.ee62ce44a9c46400dfa0e2bfd953f3f9.js",
-    "service-worker.js": "/todo-reactcontexthooks/service-worker.js",
-    "static/css/main.c1f5fe0c.chunk.css.map": "/todo-reactcontexthooks/static/css/main.c1f5fe0c.chunk.css.map",
-    "static/js/2.ca46ace9.chunk.js.LICENSE": "/todo-reactcontexthooks/static/js/2.ca46ace9.chunk.js.LICENSE"
+    "main.css": "/todoapp/static/css/main.c1f5fe0c.chunk.css",
+    "main.js": "/todoapp/static/js/main.e8c2d9be.chunk.js",
+    "main.js.map": "/todoapp/static/js/main.e8c2d9be.chunk.js.map",
+    "runtime-main.js": "/todoapp/static/js/runtime-main.5fea5f2b.js",
+    "runtime-main.js.map": "/todoapp/static/js/runtime-main.5fea5f2b.js.map",
+    "static/js/2.ca46ace9.chunk.js": "/todoapp/static/js/2.ca46ace9.chunk.js",
+    "static/js/2.ca46ace9.chunk.js.map": "/todoapp/static/js/2.ca46ace9.chunk.js.map",
+    "index.html": "/todoapp/index.html",
+    "precache-manifest.09731796b0de7ee06f426807ea3f84dc.js": "/todoapp/precache-manifest.09731796b0de7ee06f426807ea3f84dc.js",
+    "service-worker.js": "/todoapp/service-worker.js",
+    "static/css/main.c1f5fe0c.chunk.css.map": "/todoapp/static/css/main.c1f5fe0c.chunk.css.map",
+    "static/js/2.ca46ace9.chunk.js.LICENSE": "/todoapp/static/js/2.ca46ace9.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.592b704d.js",
+    "static/js/runtime-main.5fea5f2b.js",
     "static/js/2.ca46ace9.chunk.js",
     "static/css/main.c1f5fe0c.chunk.css",
-    "static/js/main.0764c4f0.chunk.js"
+    "static/js/main.e8c2d9be.chunk.js"
   ]
 }
